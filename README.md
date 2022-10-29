@@ -1,9 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13065
-Fork on GitHub
-3389
+
 
 <h1 align="center">Hi 👋, I'm Thales Nishida</h1>
 <h3 align="center">I'm currently study for became a Full Stack Developer</h3>
