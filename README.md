@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Thales Nishida</h1>
-<h3 align="center">I'm currently study for became a Full Stack Developer</h3>
+<h3 align="center">I'm currently study for become a Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalesnishida&label=Profile%20views&color=0e75b6&style=flat" alt="thalesnishida" /> </p>
 
