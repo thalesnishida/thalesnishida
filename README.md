@@ -1,11 +1,11 @@
 ### Hi there, I'm Thales Nishida
 
 #### About
-I'm a Web Developer. And, I'm studying web developer at [Rocketseat](https://www.rocketseat.com.br/)
+I'm a Front-End Web Developer. And, I'm studying web developer at [Rocketseat](https://www.rocketseat.com.br/)
 
 #### Current Stack
 - Main Language: `Javascript`
-- Frontend: `Reactjs`, `HTML5`, `Javascript`
+- Frontend: `Reactjs`, `Next.js`, `Styled Componenets`
 - Tools: `VsCode`
 - Version code control: `Git and GitHub`
 - I'm mostly active within the `Rocketseat Community`
