@@ -4,9 +4,9 @@
 I'm a Android Developer. And, I'm studying android developer at [Alura](https://www.alura.com.br/)
 
 #### Current Stack
-- Main Language: `Kotlin`, `Javascript`
-- Frontend: `Reactjs`, `Next.js`, `Styled Componenets`
-- Tools: `VsCode`, `Android Studio`
+- Main Language: `Kotlin`
+- Backend: `Spring Boot with Kotlin`
+- Tools: `VsCode`, `Android Studio`, `Intellij`
 - Version code control: `Git and GitHub`
 
 #### Contacts
